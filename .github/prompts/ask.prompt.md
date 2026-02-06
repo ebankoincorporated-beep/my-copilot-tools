@@ -5,4 +5,5 @@ agent: agent
 ---
 Запусти инструмент #tool:agent/runSubagent с параметрами:
 - agentName: "opus-agent"
+
 - prompt: $USER_QUERY
